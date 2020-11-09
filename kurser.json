@@ -1,0 +1,426 @@
+{
+  "createTime": "2020-11-09T10:11:09",
+  "kursliste": [
+    {
+      "navn": "Fastforrentede obligations- og kontantlån",
+      "obligationer": [
+        {
+          "isin": "DK0009530594",
+          "rente": "-0,50",
+          "udloeb": "2033-10-01T00:00:00",
+          "tilbudskurs": "96.947",
+          "aktuelkurs": "96.95",
+          "udvikling": "up",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "10"
+        },
+        {
+          "isin": "DK0009529661",
+          "rente": "0,00",
+          "udloeb": "2033-10-01T00:00:00",
+          "tilbudskurs": "100.0",
+          "aktuelkurs": "99.95",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "10"
+        },
+        {
+          "isin": "DK0009530321",
+          "rente": "0,00",
+          "udloeb": "2038-10-01T00:00:00",
+          "tilbudskurs": "97.662",
+          "aktuelkurs": "97.55",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "15"
+        },
+        {
+          "isin": "DK0009529588",
+          "rente": "0,50",
+          "udloeb": "2038-10-01T00:00:00",
+          "tilbudskurs": "100.7",
+          "aktuelkurs": "100.65",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "15"
+        },
+        {
+          "isin": "DK0009527103",
+          "rente": "0,50",
+          "udloeb": "2043-10-01T00:00:00",
+          "tilbudskurs": "98.896",
+          "aktuelkurs": "98.9",
+          "udvikling": "up",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "20"
+        },
+        {
+          "isin": "DK0009530248",
+          "rente": "0,50",
+          "udloeb": "2053-10-01T00:00:00",
+          "tilbudskurs": "96.634",
+          "aktuelkurs": "96.45",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "30"
+        },
+        {
+          "isin": "DK0009527293",
+          "rente": "1,00",
+          "udloeb": "2053-10-01T00:00:00",
+          "tilbudskurs": "100.212",
+          "aktuelkurs": "100.05",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "30"
+        },
+        {
+          "isin": "DK0009527616",
+          "rente": "1,50",
+          "udloeb": "2053-10-01T00:00:00",
+          "tilbudskurs": "102.29",
+          "aktuelkurs": "101.9",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "30"
+        }
+      ]
+    },
+    {
+      "navn": "Fastforrentede obligationslån med afdragsfrihed",
+      "obligationer": [
+        {
+          "isin": "DK0009530917",
+          "rente": "0,50",
+          "udloeb": "2053-10-01T00:00:00",
+          "tilbudskurs": "95.346",
+          "aktuelkurs": "95.4",
+          "udvikling": "up",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "30"
+        },
+        {
+          "isin": "DK0009527376",
+          "rente": "1,00",
+          "udloeb": "2053-10-01T00:00:00",
+          "tilbudskurs": "99.582",
+          "aktuelkurs": "99.45",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "30"
+        },
+        {
+          "isin": "DK0009528424",
+          "rente": "1,50",
+          "udloeb": "2053-10-01T00:00:00",
+          "tilbudskurs": "101.526",
+          "aktuelkurs": "101.5",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": "30"
+        }
+      ]
+    },
+    {
+      "navn": "RenteMax med afdragsfrihed",
+      "obligationer": [
+        {
+          "isin": "DK0009523540",
+          "rente": "-0,03",
+          "udloeb": "2025-07-01T00:00:00",
+          "tilbudskurs": "100.24",
+          "aktuelkurs": "100.05",
+          "udvikling": "down",
+          "renteloft": "1,00",
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009526725",
+          "rente": "0,22",
+          "udloeb": "2030-07-01T00:00:00",
+          "tilbudskurs": "100.262",
+          "aktuelkurs": "100.1",
+          "udvikling": "down",
+          "renteloft": "1,50",
+          "effektivRente": null,
+          "loebetid": null
+        }
+      ]
+    },
+    {
+      "navn": "F-kort",
+      "obligationer": [
+        {
+          "isin": "DK0009523466",
+          "rente": "-0,26",
+          "udloeb": "2022-01-01T00:00:00",
+          "tilbudskurs": "100.03",
+          "aktuelkurs": "99.75",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009521684",
+          "rente": "-0,16",
+          "udloeb": "2023-01-01T00:00:00",
+          "tilbudskurs": "100.203",
+          "aktuelkurs": "100.05",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009516767",
+          "rente": "-0,11",
+          "udloeb": "2022-07-01T00:00:00",
+          "tilbudskurs": "100.333",
+          "aktuelkurs": "100.0",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        }
+      ]
+    },
+    {
+      "navn": "Tilpasningslån",
+      "obligationer": [
+        {
+          "isin": "DK0009523979",
+          "rente": "1,00",
+          "udloeb": "2021-01-01T00:00:00",
+          "tilbudskurs": "100.224",
+          "aktuelkurs": "100.0",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009517229",
+          "rente": "1,00",
+          "udloeb": "2021-10-01T00:00:00",
+          "tilbudskurs": "101.163",
+          "aktuelkurs": "101.4",
+          "udvikling": "up",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009520793",
+          "rente": "1,00",
+          "udloeb": "2022-04-01T00:00:00",
+          "tilbudskurs": "101.918",
+          "aktuelkurs": "101.8",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009522492",
+          "rente": "1,00",
+          "udloeb": "2022-10-01T00:00:00",
+          "tilbudskurs": "102.75",
+          "aktuelkurs": "102.45",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009525677",
+          "rente": "1,00",
+          "udloeb": "2023-04-01T00:00:00",
+          "tilbudskurs": "103.4",
+          "aktuelkurs": "103.1",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009509044",
+          "rente": "1,00",
+          "udloeb": "2021-04-01T00:00:00",
+          "tilbudskurs": "100.478",
+          "aktuelkurs": "102.2",
+          "udvikling": "up",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009521841",
+          "rente": "1,00",
+          "udloeb": "2024-07-01T00:00:00",
+          "tilbudskurs": "105.152",
+          "aktuelkurs": "104.9",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009526139",
+          "rente": "1,00",
+          "udloeb": "2025-07-01T00:00:00",
+          "tilbudskurs": "106.228",
+          "aktuelkurs": "106.1",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009509630",
+          "rente": "1,00",
+          "udloeb": "2021-07-01T00:00:00",
+          "tilbudskurs": "100.97",
+          "aktuelkurs": "101.85",
+          "udvikling": "up",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009513079",
+          "rente": "1,00",
+          "udloeb": "2022-07-01T00:00:00",
+          "tilbudskurs": "102.152",
+          "aktuelkurs": "102.0",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009796864",
+          "rente": "1,00",
+          "udloeb": "2023-07-01T00:00:00",
+          "tilbudskurs": "103.789",
+          "aktuelkurs": "103.5",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009502627",
+          "rente": "1,00",
+          "udloeb": "2022-01-01T00:00:00",
+          "tilbudskurs": "101.519",
+          "aktuelkurs": "101.8",
+          "udvikling": "up",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009503195",
+          "rente": "1,00",
+          "udloeb": "2023-01-01T00:00:00",
+          "tilbudskurs": "102.981",
+          "aktuelkurs": "102.85",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009502114",
+          "rente": "1,00",
+          "udloeb": "2024-01-01T00:00:00",
+          "tilbudskurs": "104.442",
+          "aktuelkurs": "104.3",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009511297",
+          "rente": "1,00",
+          "udloeb": "2027-01-01T00:00:00",
+          "tilbudskurs": "107.2",
+          "aktuelkurs": "107.1",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009515363",
+          "rente": "1,00",
+          "udloeb": "2028-01-01T00:00:00",
+          "tilbudskurs": "108.0",
+          "aktuelkurs": "107.7",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009519357",
+          "rente": "1,00",
+          "udloeb": "2029-01-01T00:00:00",
+          "tilbudskurs": "108.4",
+          "aktuelkurs": "108.15",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009524001",
+          "rente": "1,00",
+          "udloeb": "2030-01-01T00:00:00",
+          "tilbudskurs": "108.8",
+          "aktuelkurs": "108.45",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009507931",
+          "rente": "2,00",
+          "udloeb": "2026-01-01T00:00:00",
+          "tilbudskurs": "111.996",
+          "aktuelkurs": "111.8",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        },
+        {
+          "isin": "DK0009798480",
+          "rente": "2,00",
+          "udloeb": "2025-01-01T00:00:00",
+          "tilbudskurs": "109.971",
+          "aktuelkurs": "109.7",
+          "udvikling": "down",
+          "renteloft": null,
+          "effektivRente": null,
+          "loebetid": null
+        }
+      ]
+    }
+  ]
+}
