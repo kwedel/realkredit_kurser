@@ -51,8 +51,8 @@
         "rente": "0,50",
         "udloeb": "2043-10-01T00:00:00",
         "tilbudskurs": "98.785",
-        "aktuelkurs": "98.8",
-        "udvikling": "up",
+        "aktuelkurs": "98.75",
+        "udvikling": "down",
         "renteloft": null,
         "effektivRente": null,
         "loebetid": "20"
