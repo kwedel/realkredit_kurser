@@ -199,17 +199,6 @@
     "navn": "Tilpasningslån",
     "obligationer": [
       {
-        "isin": "DK0009523979",
-        "rente": "1,00",
-        "udloeb": "2021-01-01T00:00:00",
-        "tilbudskurs": "99.972",
-        "aktuelkurs": null,
-        "udvikling": null,
-        "renteloft": null,
-        "effektivRente": null,
-        "loebetid": null
-      },
-      {
         "isin": "DK0009517229",
         "rente": "1,00",
         "udloeb": "2021-10-01T00:00:00",
