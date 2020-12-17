@@ -149,8 +149,8 @@
         "rente": "0,22",
         "udloeb": "2030-07-01T00:00:00",
         "tilbudskurs": "100.2",
-        "aktuelkurs": "100.2",
-        "udvikling": "equal",
+        "aktuelkurs": "100.4",
+        "udvikling": "up",
         "renteloft": "1,50",
         "effektivRente": null,
         "loebetid": null
