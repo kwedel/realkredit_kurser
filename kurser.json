@@ -62,8 +62,8 @@
         "rente": "0,50",
         "udloeb": "2053-10-01T00:00:00",
         "tilbudskurs": "96.699",
-        "aktuelkurs": "96.65",
-        "udvikling": "down",
+        "aktuelkurs": "96.7",
+        "udvikling": "up",
         "renteloft": null,
         "effektivRente": null,
         "loebetid": "30"
@@ -100,8 +100,8 @@
         "rente": "0,50",
         "udloeb": "2053-10-01T00:00:00",
         "tilbudskurs": "95.75",
-        "aktuelkurs": "95.75",
-        "udvikling": "equal",
+        "aktuelkurs": "95.8",
+        "udvikling": "up",
         "renteloft": null,
         "effektivRente": null,
         "loebetid": "30"
