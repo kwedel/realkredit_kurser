@@ -144,7 +144,7 @@
         "rente": "1,50",
         "udloeb": "2053-10-01T00:00:00",
         "tilbudskurs": "99.993",
-        "aktuelkurs": "100.05",
+        "aktuelkurs": "100.0",
         "udvikling": "up",
         "renteloft": null,
         "effektivRente": null,
