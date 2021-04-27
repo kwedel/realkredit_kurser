@@ -198,8 +198,8 @@
         "rente": "-0,28",
         "udloeb": "2023-07-01T00:00:00",
         "tilbudskurs": "99.85",
-        "aktuelkurs": "99.85",
-        "udvikling": "equal",
+        "aktuelkurs": "99.9",
+        "udvikling": "up",
         "renteloft": null,
         "effektivRente": null,
         "loebetid": null
